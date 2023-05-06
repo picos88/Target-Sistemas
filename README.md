@@ -2,6 +2,8 @@
 
 ##Teste para vaga de desenvolvedor I.
 
+Cada exercício contém um print da tela com o exercício executado.  
+
 1) Observe o trecho de código abaixo:
 int INDICE = 13, SOMA = 0, K = 0;  
 enquanto k < 13 faça  
