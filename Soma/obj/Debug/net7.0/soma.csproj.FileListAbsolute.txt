@@ -1,0 +1,15 @@
+C:\Users\pietr\Target Sistemas\Soma\obj\Debug\net7.0\soma.csproj.AssemblyReference.cache
+C:\Users\pietr\Target Sistemas\Soma\obj\Debug\net7.0\soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\Target Sistemas\Soma\obj\Debug\net7.0\soma.AssemblyInfoInputs.cache
+C:\Users\pietr\Target Sistemas\Soma\obj\Debug\net7.0\soma.AssemblyInfo.cs
+C:\Users\pietr\Target Sistemas\Soma\obj\Debug\net7.0\soma.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Target Sistemas\Soma\bin\Debug\net7.0\soma.exe
+C:\Users\pietr\Target Sistemas\Soma\bin\Debug\net7.0\soma.deps.json
+C:\Users\pietr\Target Sistemas\Soma\bin\Debug\net7.0\soma.runtimeconfig.json
+C:\Users\pietr\Target Sistemas\Soma\bin\Debug\net7.0\soma.dll
+C:\Users\pietr\Target Sistemas\Soma\bin\Debug\net7.0\soma.pdb
+C:\Users\pietr\Target Sistemas\Soma\obj\Debug\net7.0\soma.dll
+C:\Users\pietr\Target Sistemas\Soma\obj\Debug\net7.0\refint\soma.dll
+C:\Users\pietr\Target Sistemas\Soma\obj\Debug\net7.0\soma.pdb
+C:\Users\pietr\Target Sistemas\Soma\obj\Debug\net7.0\soma.genruntimeconfig.cache
+C:\Users\pietr\Target Sistemas\Soma\obj\Debug\net7.0\ref\soma.dll
