@@ -1,0 +1,15 @@
+C:\Users\pietr\Target Sistemas\ReverterString\obj\Debug\net7.0\reverterString.csproj.AssemblyReference.cache
+C:\Users\pietr\Target Sistemas\ReverterString\obj\Debug\net7.0\reverterString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\Target Sistemas\ReverterString\obj\Debug\net7.0\reverterString.AssemblyInfoInputs.cache
+C:\Users\pietr\Target Sistemas\ReverterString\obj\Debug\net7.0\reverterString.AssemblyInfo.cs
+C:\Users\pietr\Target Sistemas\ReverterString\obj\Debug\net7.0\reverterString.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Target Sistemas\ReverterString\bin\Debug\net7.0\reverterString.exe
+C:\Users\pietr\Target Sistemas\ReverterString\bin\Debug\net7.0\reverterString.deps.json
+C:\Users\pietr\Target Sistemas\ReverterString\bin\Debug\net7.0\reverterString.runtimeconfig.json
+C:\Users\pietr\Target Sistemas\ReverterString\bin\Debug\net7.0\reverterString.dll
+C:\Users\pietr\Target Sistemas\ReverterString\bin\Debug\net7.0\reverterString.pdb
+C:\Users\pietr\Target Sistemas\ReverterString\obj\Debug\net7.0\reverterString.dll
+C:\Users\pietr\Target Sistemas\ReverterString\obj\Debug\net7.0\refint\reverterString.dll
+C:\Users\pietr\Target Sistemas\ReverterString\obj\Debug\net7.0\reverterString.pdb
+C:\Users\pietr\Target Sistemas\ReverterString\obj\Debug\net7.0\reverterString.genruntimeconfig.cache
+C:\Users\pietr\Target Sistemas\ReverterString\obj\Debug\net7.0\ref\reverterString.dll
