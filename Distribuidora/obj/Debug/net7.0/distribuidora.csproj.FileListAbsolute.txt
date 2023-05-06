@@ -1,0 +1,15 @@
+C:\Users\pietr\Target Sistemas\Distribuidora\obj\Debug\net7.0\distribuidora.csproj.AssemblyReference.cache
+C:\Users\pietr\Target Sistemas\Distribuidora\obj\Debug\net7.0\distribuidora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietr\Target Sistemas\Distribuidora\obj\Debug\net7.0\distribuidora.AssemblyInfoInputs.cache
+C:\Users\pietr\Target Sistemas\Distribuidora\obj\Debug\net7.0\distribuidora.AssemblyInfo.cs
+C:\Users\pietr\Target Sistemas\Distribuidora\obj\Debug\net7.0\distribuidora.csproj.CoreCompileInputs.cache
+C:\Users\pietr\Target Sistemas\Distribuidora\bin\Debug\net7.0\distribuidora.exe
+C:\Users\pietr\Target Sistemas\Distribuidora\bin\Debug\net7.0\distribuidora.deps.json
+C:\Users\pietr\Target Sistemas\Distribuidora\bin\Debug\net7.0\distribuidora.runtimeconfig.json
+C:\Users\pietr\Target Sistemas\Distribuidora\bin\Debug\net7.0\distribuidora.dll
+C:\Users\pietr\Target Sistemas\Distribuidora\bin\Debug\net7.0\distribuidora.pdb
+C:\Users\pietr\Target Sistemas\Distribuidora\obj\Debug\net7.0\distribuidora.dll
+C:\Users\pietr\Target Sistemas\Distribuidora\obj\Debug\net7.0\refint\distribuidora.dll
+C:\Users\pietr\Target Sistemas\Distribuidora\obj\Debug\net7.0\distribuidora.pdb
+C:\Users\pietr\Target Sistemas\Distribuidora\obj\Debug\net7.0\distribuidora.genruntimeconfig.cache
+C:\Users\pietr\Target Sistemas\Distribuidora\obj\Debug\net7.0\ref\distribuidora.dll
