@@ -2,7 +2,7 @@
 
 ##Teste para vaga de desenvolvedor I.
 
-Cada exercício contém um print da tela com o exercício executado.  
+Cada exercício contém um print da tela com o código executado.  
 
 1) Observe o trecho de código abaixo:
 int INDICE = 13, SOMA = 0, K = 0;  
