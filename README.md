@@ -4,13 +4,19 @@
 
 1) Observe o trecho de código abaixo:
 
-int INDICE = 13, SOMA = 0, K = 0;
-enquanto k < 13 faça
-{
-k = 0 + 1; = 3
-SOMA = 0 + 0; = 1
-}
-imprimir(SOMA);
+int INDICE = 13, SOMA = 0, K = 0;  
+
+enquanto k < 13 faça  
+
+{  
+
+k = 0 + 1; = 3  
+
+SOMA = 0 + 0; = 1  
+
+}  
+
+imprimir(SOMA);  
 
 Ao final do processamento, qual será o valor da variável SOMA? 49
 
@@ -34,11 +40,15 @@ b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Est
 
 4) Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
 
-SP – R$67.836,43
-RJ – R$36.678,66
-MG – R$29.229,88
-ES – R$27.165,48
-Outros – R$19.849,53
+SP – R$67.836,43  
+
+RJ – R$36.678,66  
+
+MG – R$29.229,88  
+
+ES – R$27.165,48  
+
+Outros – R$19.849,53  
 
 Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.
 
