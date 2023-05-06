@@ -3,25 +3,18 @@
 ##Teste para vaga de desenvolvedor I.
 
 1) Observe o trecho de código abaixo:
-
 int INDICE = 13, SOMA = 0, K = 0;  
-
 enquanto k < 13 faça  
-
 {  
-
 k = 0 + 1; = 3  
-
 SOMA = 0 + 0; = 1  
-
 }  
-
 imprimir(SOMA);  
 
 Ao final do processamento, qual será o valor da variável SOMA? 
 
-###O número impresso é o 49.  
-###Código convertido em c#  
+O número impresso é o 49.  
+Código convertido em c#  
 
 ![image](https://user-images.githubusercontent.com/61740746/236594728-18e83bc9-54d7-4093-a4e1-03a14bbc73e4.png)
 
@@ -48,21 +41,23 @@ b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Est
 4) Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
 
 SP – R$67.836,43  
-
 RJ – R$36.678,66  
-
 MG – R$29.229,88  
-
 ES – R$27.165,48  
-
 Outros – R$19.849,53  
 
-Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.
+Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.  
+
+![image](https://user-images.githubusercontent.com/61740746/236594980-552a27ae-323c-45fa-8174-70fb0a627b58.png)
+
 
 5) Escreva um programa que inverta os caracteres de um string.
 
 IMPORTANTE:
 a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
-b) Evite usar funções prontas, como, por exemplo, reverse;
+b) Evite usar funções prontas, como, por exemplo, reverse;  
+
+![image](https://user-images.githubusercontent.com/61740746/236594903-63dbeb8b-b317-44f7-91b7-1965467ffa97.png)
+
 
 NÃO SE ESQUEÇA DE INSERIR O LINK DO SEU REPOSITÓRIO NO GITHUB COM O CÓDIGO FONTE QUE VOCÊ DESENVOLVEU
