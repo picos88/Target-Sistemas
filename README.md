@@ -1,6 +1,6 @@
-## Target-Sistemas
+### Target-Sistemas
 
-Teste para vaga de desenvolvedor I.
+## Teste para vaga de desenvolvedor I.
 
 1) Observe o trecho de código abaixo:
 
@@ -12,7 +12,7 @@ SOMA = 0 + 0; = 1
 }
 imprimir(SOMA);
 
-Ao final do processamento, qual será o valor da variável SOMA? 
+Ao final do processamento, qual será o valor da variável SOMA? 49
 
 2) Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores 
 (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem 
