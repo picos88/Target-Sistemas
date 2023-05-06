@@ -1,6 +1,6 @@
-## Target-Sistemas
+#Target-Sistemas
 
-### Teste para vaga de desenvolvedor I.
+##Teste para vaga de desenvolvedor I.
 
 1) Observe o trecho de código abaixo:
 
@@ -18,7 +18,12 @@ SOMA = 0 + 0; = 1
 
 imprimir(SOMA);  
 
-Ao final do processamento, qual será o valor da variável SOMA? 49
+Ao final do processamento, qual será o valor da variável SOMA? 
+
+###O número impresso é o 49.  
+###Código convertido em c#  
+
+![image](https://user-images.githubusercontent.com/61740746/236594728-18e83bc9-54d7-4093-a4e1-03a14bbc73e4.png)
 
 2) Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores 
 (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem 
@@ -27,7 +32,9 @@ retorne uma mensagem avisando se o número informado pertence ou não a sequênc
 
 IMPORTANTE:
 Esse número pode ser informado através de qualquer entrada de sua preferência ou 
-pode ser previamente definido no código;
+pode ser previamente definido no código;  
+
+![image](https://user-images.githubusercontent.com/61740746/236594687-d51cc014-7977-4636-9fbc-fb0c3b93f5a8.png)
 
 3) Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
 • O menor valor de faturamento ocorrido em um dia do mês;
